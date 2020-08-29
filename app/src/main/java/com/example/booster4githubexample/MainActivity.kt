@@ -13,5 +13,7 @@ class MainActivity : AppCompatActivity() {
         println("Hefny say hello!!")
 
         print("Hello again")
+
+        print("Something random")
     }
 }
